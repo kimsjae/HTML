@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.image {
+    display: grid;
+    background-image: url("images/vacation.jpg");
+    background-size: 100% 100%;
+    height: 100%;
+    width: 100%;
+}
+
+.color {
+    display: grid;
+}

@@ -67,3 +67,10 @@ table select {
 .table-input {
     height: 50px;
 }
+
+input,
+select {
+    padding: 15px 0;
+    margin-top: 5px;
+    border: 1px solid #beb6b6;
+}
